@@ -9,6 +9,8 @@
 <body>
 
 <h1>I am done with my first web application</h1>
+<h1>this is my bug fix site-2</h1>
+<h1>this is my bug fix for site-2 for second commit</h1>
 <h1>This a urgent prod bug fix. move to master</h1>
 
 </body>
